@@ -1,1 +1,3 @@
-# .github
+# Transcribe.js
+
+...in the making...
