@@ -1,4 +1,4 @@
-A wasm build based on [whisper.cpp](https://github.com/ggerganov/transcriber.cpp). 
+A wasm build based on [whisper.cpp](https://github.com/ggerganov/whisper.cpp). 
 
 _...in the making..._
 <!--
